@@ -107,3 +107,7 @@ Description: The purpose of this query to see which coaches are making more than
 ![image](https://github.com/ConnorConiglio/Group-2-Project-1/assets/163012186/c8306e66-60b1-4a7f-a938-03ed74ae0a69)
 
 Description: The purpose of this query is to narrow in on 2-3 hour practices and see which players have broken equipment (bats, in this case). Furthermore, it will also show the type of facility and which facility the noted practice takes place in. This query is valuable to our client because it allows them to optimize facility use, ensure player safety (i.e. - stop them from using faulty equipment, and also allow players to get the most out of their practices. 
+
+## **Database Information:**
+Name of the database: ns_Sp24_61608_Group2
+Additional information: Each query listed above is marked in the database using stored procedures which can be called using the following format: CALL TP_Qx();
